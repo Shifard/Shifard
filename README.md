@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everynyan ≽^•⩊•^≼, I am Jason E. Espallardo</h1>
+<h1 align="center">Hello Everyone👋👋👋, I am Jason E. Espallardo</h1>
 
 <h4 align="center">Computer Science Student at Polytechnic University of the Philippines</h4>
 <h4 align="center">An aspiring web developer from the Philippines</h4>
