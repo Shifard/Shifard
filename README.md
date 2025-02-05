@@ -2,6 +2,8 @@
 
 <h4 align="center">Computer Science Student at Polytechnic University of the Philippines</h4>
 <h4 align="center">An aspiring web developer from the Philippines</h4>
+<img src="https://tryhackme-badges.s3.amazonaws.com/espallardo.je.png" alt="Your Image Badge" />
+
 
 - 📫 How to reach me **espallardo.je@gmail.com**
 
